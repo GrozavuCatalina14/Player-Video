@@ -1,0 +1,6 @@
+[
+    { "start": 1, "end": 4, "text": "Salut! Bine ai venit la acest video." },
+    { "start": 5, "end": 8, "text": "Acesta este un exemplu de subtitrare." },
+    { "start": 9, "end": 12, "text": "Textul este afisat direct pe Canvas." },
+    { "start": 13, "end": 16, "text": "Vizionare plăcuta!" }
+]
